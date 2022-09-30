@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032906131332",
+    "firebase_url": "https://intuuchatapp-default-rtdb.firebaseio.com",
+    "project_id": "intuuchatapp",
+    "storage_bucket": "intuuchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032906131332:android:a76e580756382b964f7fd1",
+        "android_client_info": {
+          "package_name": "com.example.flutterchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032906131332-2pi3goaqmedu82ol9322aldnihonripk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterchatapp",
+            "certificate_hash": "3a03ce6797799ebf7c8c5aabad4d37e74e654d25"
+          }
+        },
+        {
+          "client_id": "1032906131332-nhitc9r4pebioli7v6m9qiq4g03ttgfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDtMUTR9u02HAMlGEflGH1_qV6VIN6_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032906131332-nhitc9r4pebioli7v6m9qiq4g03ttgfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
